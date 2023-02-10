@@ -40,7 +40,7 @@ def get_authors():
         'Title': 'Solving a machine-learning mystery',
         'Body': "Large language models like OpenAI’s GPT-3 are massive neural networks that can generate human-like text, from poetry to programming code. Trained using troves of internet data, these machine-learning models take a small bit of input text and then predict the text that is likely to come next. But that’s not all these models can do. Researchers are exploring a curious phenomenon known as in-context learning, in which a large language model learns to accomplish a task after seeing only a few examples — despite the fact that it wasn’t trained for that task. For instance, someone could feed the model several example sentences and their sentiments (positive or negative), then prompt it with a new sentence, and the model can give the correct sentiment. Typically, a machine-learning model like GPT-3 would need to be retrained with new data for this new task. During this training process, the model updates its parameters as it processes new information to learn the task. But with in-context learning, the model’s parameters aren’t updated, so it seems like the model learns a new task without learning anything at all.",
         'Author': {
-            'name':'Hosea Columbus',
+            'name':'Steven Hechose',
             'age': 28,
             'contact': '+256 7753652323',
             'Experience': '3 years',
